@@ -13,6 +13,11 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+// https://wpf-tutorial.com/es/4/comenzando/hola-wpf/
+// https://wpf-tutorial.com/es/6/xaml/xaml-basico/
+// WPF
+// XAML eXtensible Application Markup Language
+
 namespace Contras
 {
     /// <summary>

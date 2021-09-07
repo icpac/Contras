@@ -13,5 +13,11 @@
             </MenuItem>
         </Menu>
         <TextBox AcceptsReturn="True" />
+
+        <Grid>
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72">
+            Niltze, WPF!
+            </TextBlock>
+        </Grid>
     </DockPanel>
 </Window>
